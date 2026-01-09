@@ -239,6 +239,13 @@ nav button{
      background-color:#f9eed9;
 }
 
+button:hover{
+    background-color: rgb(103, 77, 247);
+}
+button{
+    cursor: pointer;
+}
+
    
 
 
