@@ -5,10 +5,10 @@
 }
 .nav{
     display: flex;
-    border: 1px solid black;
     padding: 16px;
     align-items: center;
     justify-content: space-around;
+    height: 92px;
 }
 ul{
     display: flex;
@@ -31,3 +31,87 @@ nav button{
     border-radius: 5px;
     border: none;
 }
+.banar{
+    width: 100%;
+    height: 674px;
+    background: url("/images/hero-bg.png");
+    margin: 0px auto;
+   
+}
+.banar-contant{
+    margin: 0px auto;
+    padding-top: 60px;
+    
+    width: 1360px;
+    text-align: center;
+    
+}
+.banar-contant .divc{
+    width: 1360px;
+    padding-top: 70px;
+   /* border: 1px solid red; */
+    margin: 0px auto;
+  padding-top: 70px;
+   
+}
+.banar div .btn{
+    border-radius: 29px;
+    padding: 2px 10px;
+    font-size: 16px;
+    color: green;
+    background-color: #FFFFFF;
+}
+
+
+.tex-timg h1{
+    /* font-size: 70px; */
+    line-height: 50px;
+}
+.img-con button{
+    background-color: green;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 10px;
+    
+   
+}
+.h1{
+    margin-top: 20px;
+    color:#FFFFFF;
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+.h{
+    color: greenyellow;
+    font-size: 70px;
+    margin-bottom: 32px;
+    
+}
+
+.img-con{
+    display: flex;
+    gap: 15PX;
+    margin: 0px auto;
+    margin-top: 20px;
+    margin-left: 480px;
+}
+#imgbtn{
+    display: flex;
+gap: 5px;
+border: none;
+ 
+  text-align: center;
+}
+.banar p{
+    color: #FFFFFF;
+}
+#img-btn2{
+    background: none;
+    border: 1px solid #FFFFFF;
+}
+.imgbtn{
+    border-radius: 5px;
+ 
+}
+
+
