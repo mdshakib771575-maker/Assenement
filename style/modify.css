@@ -32,7 +32,7 @@ nav button{
     border: none;
 }
 .banar{
-    width: 100%;
+    max-width:1600px;
     height: 674px;
     background: url("../images/hero-bg.png");
     margin: 0px auto;
