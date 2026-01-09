@@ -160,5 +160,39 @@ border: none;
     color: #627382;
 }
 
+.main-img-ul{
+    height: 600px;
+    display: flex;
+    gap: 60px;
+    margin: 120px;
+    
+
+}
+.img img{
+    width: 600px;
+    height: 600px;
+   
+}
+.ul .p{
+    margin-top: 102px;
+    margin-bottom: 16px;
+}
+.ul h1{
+    margin-bottom: 16px;
+}
+.ul .p2{
+    color: #627382;
+    margin-bottom: 40px;
+}
+.ul ul{
+    display: block;
+    
+}
+.ul ul li{
+    display: flex;
+    gap: 10px;
+    padding-bottom: 16px;
+}
+
 
 
